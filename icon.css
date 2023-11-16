@@ -1,0 +1,19 @@
+
+        .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.fa-facebook {
+
+  background: #0c51e6;
+  color: rgb(255, 10, 10);
+}
+span{
+    background-color: blueviolet;
+}
+
